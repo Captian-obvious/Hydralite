@@ -1,1 +1,2 @@
-
+execute as @a at @s run execute as @e[type=arrow,nbt={inGround:1b,CustomName:'{"text":"Rocket","color":"dark_red","bold":true,"italic":false,"underlined":false}'}] at @s run summon tnt ~ ~ ~ {Fuse:80,CustomName:'{"text":"Big Boom"}',ExplosionPower:12}
+execute as @a at @s run execute as @e[type=arrow,nbt={inGround:1b,CustomName:'{"text":"Rocket","color":"dark_red","bold":true,"italic":false,"underlined":false}'}] at @s run kill @s
