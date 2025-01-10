@@ -1,1 +1,2 @@
-
+give @p crossbow{display:{Name:'{"text":"Hydra","color":"dark_aqua","bold":false,"italic":false,"underlined":false}'},Enchantments:[{id:"minecraft:piercing",lvl:50s}]} 1
+give @p tipped_arrow{display:{Name:'{"text":"Rocket","color":"dark_red","bold":true,"italic":false,"underlined":false}'},custom_potion_effects:[{id:"minecraft:mining_fatigue",amplifier:200b,duration:400},{id:"minecraft:glowing",amplifier:1b,duration:800},{id:"minecraft:bad_omen",amplifier:8b,duration:60}],Potion:"minecraft:awkward",CustomPotionColor:16711680} 64
