@@ -1,1 +1,2 @@
 give @p crossbow[custom_name='{"bold":false,"color":"dark_aqua","italic":false,"text":"Hydra","underlined":false}',enchantments={levels:{"minecraft:piercing":50}}] 1
+give @p arrow[custom_name='{"bold":true,"color":"dark_red","italic":false,"text":"Rocket","underlined":false}',item_name='{"bold":true,"color":"dark_red","italic":false,"text":"Rocket","underlined":false}',lore=['{"bold":true,"color":"light_purple","italic":false,"text":"Don\'t drop it, Don\'t press the tip, Not edible!","underlined":false}']] 1
