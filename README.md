@@ -2,6 +2,8 @@
 # Hydralite
 Minecraft Java Datapack adding, the Hydra weapon
 <h2>How to use:</h2>
-1 - open a java world with this enabled
-2 - run the function "hydra_give"
-3 - enjoy.
+<ul>
+    <li>open a java world with this datapack enabled</li>
+    <li>run the function "hydra_give"</li>
+    <li>enjoy</li>
+</ul>
